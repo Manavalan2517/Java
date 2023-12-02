@@ -2,7 +2,7 @@ package Java;
 
 public class Conditional_Statements_Switch_Case {
     public static void main(String[] args) {
-        char att = ' ';
+        char att = 'a';
         switch (att)
         {
             case 'o':
