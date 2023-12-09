@@ -1,6 +1,7 @@
-
-// Problem_7 :-
-// Check whether a number is even or odd
+/*
+ Problem_7 :-
+ Check whether a number is even or odd
+*/
 
 
 package Java.Topicwise_Practice_Questions.J2_Conditionals_and_Loops;

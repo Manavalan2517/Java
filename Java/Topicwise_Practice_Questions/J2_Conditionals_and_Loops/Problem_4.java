@@ -1,5 +1,7 @@
-// Problem_4 :-
-// Counting occurrences
+/*
+ Problem_4 :-
+ Counting occurrences
+*/
 
 package Java.Topicwise_Practice_Questions.J2_Conditionals_and_Loops;
 

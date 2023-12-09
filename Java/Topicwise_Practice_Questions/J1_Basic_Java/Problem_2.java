@@ -1,6 +1,10 @@
+/*
+ Problem_2
+ Take name as input and print a greeting message for that particular name.
+*/
 
-// Problem_2
-// Take name as input and print a greeting message for that particular name.
+
+
 
 package Java.Topicwise_Practice_Questions.J1_Basic_Java;
 

@@ -1,6 +1,7 @@
-
-// Problem_5 :-
-// Reverse
+/*
+ Problem_5 :-
+ Reverse
+*/
 
 
 package Java.Topicwise_Practice_Questions.J2_Conditionals_and_Loops;

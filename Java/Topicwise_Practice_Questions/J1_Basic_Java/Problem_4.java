@@ -1,6 +1,9 @@
+/*
+ Problem_4 :-
+ Program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
+*/
 
-// Problem_4 :-
-// Program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
+
 
 
 package Java.Topicwise_Practice_Questions.J1_Basic_Java;
