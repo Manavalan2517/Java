@@ -13,10 +13,11 @@ import java.util.Scanner;
 public class Problem_10 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+        double area;
+        float radius;
         System.out.print("Enter the radius of the circle: ");
-        float radius = input.nextFloat();
-        double area = 3.14 * radius * radius;
+        radius = input.nextFloat();
+        area = 3.14 * radius * radius;
         System.out.println("Area of the circle is = " + area);
     }
 }

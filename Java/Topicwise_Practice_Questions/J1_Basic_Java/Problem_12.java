@@ -1,6 +1,6 @@
 
 /*
-Problem_6 :-
+Problem_12 :-
 Area Of Equilateral Triangle
  */
 
