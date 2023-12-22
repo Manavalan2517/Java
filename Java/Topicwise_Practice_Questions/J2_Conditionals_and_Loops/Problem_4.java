@@ -14,7 +14,7 @@ public class Problem_4 {
         System.out.print("Enter any number: ");
         int num = input.nextInt();
 
-        System.out.print("Which number dow you want to count: ");
+        System.out.print("Which number do you want to count: ");
         int cnum = input.nextInt();
 
 
@@ -27,7 +27,6 @@ public class Problem_4 {
                 count++;
             }
             num = num / 10;
-
         }
         System.out.println(count);
     }

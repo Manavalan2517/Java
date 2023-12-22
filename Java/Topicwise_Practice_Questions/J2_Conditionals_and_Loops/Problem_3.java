@@ -15,10 +15,10 @@ public class Problem_3 {
         System.out.print("Enter any number: ");
         int num = input.nextInt();
 
-        long prevnum = 0l;
-        long currnum = 1l;
-        long count = 2l;
-        long res = 0l;
+        int prevnum = 0;
+        int currnum = 1;
+        int count = 3;
+        int res = 0;
         while (count <= num)
         {
             res = prevnum + currnum;
