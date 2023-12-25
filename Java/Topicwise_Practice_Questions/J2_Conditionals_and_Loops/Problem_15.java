@@ -1,7 +1,7 @@
 
 /*
 Problem_15 :-
-Calculate Discount Of Product
+Calculate average Of all numbers
  */
 
 
